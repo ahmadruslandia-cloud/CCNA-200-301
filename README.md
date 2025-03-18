@@ -8,7 +8,7 @@
 
 # Networking Guide
 
-Python Essentials 1
+CCNA 200-301
 
 ## Description
 
